@@ -9,7 +9,14 @@ file_paths = [
     "/Users/Ludwig/Documents/GitHub/data_demo/637b023440527bf2daa5932f__post1.json",
     "/Users/Ludwig/Documents/GitHub/data_demo/637c399add50d54aa5af0cf4__post2.json",
     "/Users/Ludwig/Documents/GitHub/data_demo/637d8ea678f0cb97981425dd__post3.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/637f0d5f78f0cb97981425de__post4.json",
     "/Users/Ludwig/Documents/GitHub/data_demo/6380728cdd50d54aa5af0cf5__post5.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/638450a3dd50d54aa5af0cf6__post8.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/63858a2cfb3ff533c12df166__post9.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/6386d89efb3ff533c12df167__post10.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/63882be478f0cb97981425df__post11.json",
+    "/Users/Ludwig/Documents/GitHub/data_demo/63898d48d430891009401330__post12.json",
+
 ]
 
 notebook_filename = "/Users/Ludwig/Documents/GitHub/data_tutorial/edies_cleaner.ipynb"

@@ -1,0 +1,13 @@
+Approximated by,Truth,Coverage %
+Heavy Edie,Light Edie,37.03
+Light Poly,Light Edie,0.0
+Heavy Poly,Light Edie,0.0
+Light Poly,Heavy Edie,0.0
+Heavy Poly,Heavy Edie,0.0
+Light Edie,Light Poly,0.0
+Heavy Edie,Light Poly,0.0
+Heavy Poly,Light Poly,0.0
+Light Edie,Heavy Poly,0.0
+Heavy Edie,Heavy Poly,0.0
+Light Poly,Heavy Poly,0.0
+Light Edie,Heavy Edie,270.08

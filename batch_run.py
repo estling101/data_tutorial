@@ -19,7 +19,7 @@ file_paths = [
 
 ]
 
-notebook_filename = "/Users/Ludwig/Documents/GitHub/data_tutorial/edies_cleaner.ipynb"
+notebook_filename = "/Users/Ludwig/Documents/GitHub/data_tutorial/eval_algo.ipynb"
 output_dir = "executed_notebooks"
 
 os.makedirs(output_dir, exist_ok=True)
